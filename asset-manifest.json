@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LuxoSoles/static/css/main.4c91b2b5.css",
+    "main.js": "/LuxoSoles/static/js/main.7a54a0da.js",
+    "static/js/787.7578136b.chunk.js": "/LuxoSoles/static/js/787.7578136b.chunk.js",
+    "static/media/bgs6.png": "/LuxoSoles/static/media/bgs6.2cb6091056f1583c46ab.png",
+    "static/media/bsg3.png": "/LuxoSoles/static/media/bsg3.71ac14a3f22b7c164164.png",
+    "static/media/bgs10.png": "/LuxoSoles/static/media/bgs10.e8f9ba724781daa06fc5.png",
+    "static/media/bgs4.png": "/LuxoSoles/static/media/bgs4.04cc3237aff54f8cce8c.png",
+    "static/media/bgs1.png": "/LuxoSoles/static/media/bgs1.0e24148b9b9615914405.png",
+    "static/media/image7.jpg": "/LuxoSoles/static/media/image7.bb06df9698935c00dc16.jpg",
+    "static/media/image3.jpg": "/LuxoSoles/static/media/image3.bf3e05bb537423a5c0eb.jpg",
+    "static/media/image5.jpg": "/LuxoSoles/static/media/image5.50522a28675ec753d1fd.jpg",
+    "static/media/im1.png": "/LuxoSoles/static/media/im1.69e9bb39153400c31a68.png",
+    "static/media/image6.jpg": "/LuxoSoles/static/media/image6.fd04daa40bdf583bb56b.jpg",
+    "static/media/image8.jpg": "/LuxoSoles/static/media/image8.292e69afdec5c884fae5.jpg",
+    "static/media/image2.jpg": "/LuxoSoles/static/media/image2.c026bece94948fe0e9b5.jpg",
+    "static/media/image1.jpg": "/LuxoSoles/static/media/image1.74c45798eb0fd1e7c8fe.jpg",
+    "static/media/image4.jpg": "/LuxoSoles/static/media/image4.434dc27eda14071aa346.jpg",
+    "index.html": "/LuxoSoles/index.html",
+    "main.4c91b2b5.css.map": "/LuxoSoles/static/css/main.4c91b2b5.css.map",
+    "main.7a54a0da.js.map": "/LuxoSoles/static/js/main.7a54a0da.js.map",
+    "787.7578136b.chunk.js.map": "/LuxoSoles/static/js/787.7578136b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c91b2b5.css",
+    "static/js/main.7a54a0da.js"
+  ]
+}
