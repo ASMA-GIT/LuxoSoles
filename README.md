@@ -1,3 +1,6 @@
+# luxo_soles
+Welcome to the Luxo Soles Company Landing Page, a dynamic and visually appealing website built using React with captivating animations that will leave a lasting impression on shoe enthusiasts. This landing page is designed to showcase our latest and Premium footwear collections and provide an immersive user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,60 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Follow the link to view live-hosted website https://asma-git.github.io/LuxoSoles/
+### Table of Contents
+- Features
+- Installation
+- Usage
+- Technologies
+- Contributing
+- License
+
+
+### Features
+1. **Responsive Design**: Our landing page is responsive, ensuring that visitors can access the content seamlessly on various devices, from desktops to mobile phones.
+
+2. **Stunning Animations**: Engage your audience with eye-catching animations that highlight the beauty and functionality of our shoes.
+
+3. **Product Showcases:** Display your shoe collections with style, including high-quality images, product descriptions, and prices.
+
+4. **Newsletter Subscription:** Allow users to stay updated with the latest trends by subscribing to our newsletter.
+
+5. **Contact Information:** Provide contact details, including a contact form, to offer assistance and answer customer inquiries.
+
+6. **Social Media Integration:** Connect your social media accounts to expand your online presence.
+
+
+### Installation
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ``` git clone https://github.com/yourusername/shoe-landing-page.git ```
+2. **Navigate to the project folder:**
+   
+   ``` cd shoe-landing-page ```
+3. **Install the necessary dependencies:**
+   
+   ``` npm install ```
+4. **Start the development server:**
+
+   ``` npm start ```
+5. **Open your browser and visit http://localhost:3000 to view the landing page.**
+
+### Technologies
+This landing page was built using the following technologies:
+
+- React
+- CSS (for styling)
+- CSS and scrollreveal (for animations)
+
+### Luxo Soles Landing Page
+![Screenshot (131)](https://github.com/ASMA-GIT/luxo_soles/assets/75538890/9df18d02-c27a-4ede-93ec-8f5a8ffee276)
+
+![Screenshot (133)](https://github.com/ASMA-GIT/luxo_soles/assets/75538890/c011779b-4879-45a4-8164-23d7e296730c)
+
+![Screenshot (134)](https://github.com/ASMA-GIT/luxo_soles/assets/75538890/0930bae2-5bd4-4ea5-9c57-8b86fae6311e)
+
